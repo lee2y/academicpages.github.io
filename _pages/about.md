@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year M.S candidate co-supervised by Pro. [Wei Liu](http://www.ee.columbia.edu/~wliu/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xi'an University of Post & Telecommunications](http://www.xiyou.edu.cn/) in 2013.
+I am currently a second year Ph.D candidate co-supervised by Pro. [Wei Liu](http://www.ee.columbia.edu/~wliu/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xi'an University of Post & Telecommunications](http://www.xiyou.edu.cn/) in 2013.
 
 
 News
 ======
 * None   
-* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
+
 
 
 Recent Publications
@@ -29,11 +29,6 @@ Conference
 * None
 
 
-Contests
-======
-* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 2 2017), Rank : 31/2887 [result](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.69322009LOjfnv&raceId=231601&season=1)
-* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 1 2017), Rank : 37/2887 [result](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.8.69322009LOjfnv&raceId=231601&season=0)
-* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
 
  
 Friends
