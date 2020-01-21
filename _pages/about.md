@@ -26,13 +26,13 @@ Journal
 
 Conference
 ------
-* None
+Li Z, Li C, Deng C, et al. Hyperspectral image super-resolution using sparse spectral unmixing and low-rank constraints[C]//2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). IEEE, 2016: 7224-7227
 
 
 
  
 Friends
 ======
-[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) 
+[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity) 
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)
